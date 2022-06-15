@@ -1,0 +1,28 @@
+{
+  "name": "solidity-portal-for-networking",
+  "version": "1.0.0",
+  "description": "A networking (waves) portal for web3 enthusiasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusiqe/solidity-portal-for-networking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusiqe/solidity-portal-for-networking/issues"
+  },
+  "homepage": "https://github.com/rusiqe/solidity-portal-for-networking#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.8",
+    "hardhat": "^2.9.9"
+  }
+}
